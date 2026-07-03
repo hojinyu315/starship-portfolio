@@ -1,0 +1,5 @@
+.claude/
+*.pdf
+*.DS_Store
+starship_ci.jpg
+index_starship.html
